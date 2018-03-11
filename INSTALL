@@ -1,0 +1,9 @@
+Building SbucksToken
+
+See doc/readme-qt.rst for instructions on building SbucksToken QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SbucksToken.
+
+See doc/build-*.txt for instructions on building sbuckstokend,
+the intended-for-services, no-graphical-interface, reference
+implementation of SbucksToken.

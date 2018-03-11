@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SBUCKSTOKEN
+Comment=SBUCKSTOKEN P2P Cryptocurrency
+Comment[fr]=SBUCKSTOKEN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SBUCKSTOKEN, eşten eşe kriptografik sanal para birimi
+Exec=sbuckstoken-qt %u
+Terminal=false
+Type=Application
+Icon=sbuckstoken128
+MimeType=x-scheme-handler/sbuckstoken;
+Categories=Office;Finance;
